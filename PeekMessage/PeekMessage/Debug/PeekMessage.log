@@ -1,4 +1,6 @@
 ﻿  PeekMessage.cpp
-d:\github\practice-window-game\peekmessage\peekmessage\peekmessage.cpp(301): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-d:\github\practice-window-game\peekmessage\peekmessage\peekmessage.cpp(300): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\github\practice-window-game\peekmessage\peekmessage\peekmessage.cpp(365): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\github\practice-window-game\peekmessage\peekmessage\peekmessage.cpp(369): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\github\practice-window-game\peekmessage\peekmessage\peekmessage.cpp(368): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\github\practice-window-game\peekmessage\peekmessage\peekmessage.cpp(374): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
   PeekMessage.vcxproj -> D:\GitHub\Practice-Window-Game\PeekMessage\Debug\PeekMessage.exe
